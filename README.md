@@ -1,4 +1,4 @@
-# BaslerPicoCalibration
+# BaslerColorCalibration for Pico color target
 BaslerPicoCalibration is a Python project aimed at expanding the capabilities of the Basler color calibrator by enabling support for smaller field of view applications. Traditionally, the Basler color calibrator is limited to 24-color charts with a minimum size of 50mm x 70mm, which may not meet the requirements of industries with smaller field of view needs, such as 2mm x 2mm.
 
 ![image](https://github.com/SODAVISION-TECH/BaslerPicoCalibration/assets/22335180/0660725c-4ffb-4fa9-b696-3defb363b363)
